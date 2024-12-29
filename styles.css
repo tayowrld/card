@@ -89,3 +89,8 @@ ul a{
     filter: blur(5px) opacity(0.3);
     -webkit-filter: blur(5px) opacity(0.3);
 }
+
+.blured{
+    filter: blur(5px);
+    -webkit-filter: blur(5px);
+}
